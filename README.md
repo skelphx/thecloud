@@ -1,6 +1,6 @@
-#Classic Python Tic-Tac-Toe Game
-
-A comprehensive course for learning Python through building a complete Tic-Tac-Toe game. Perfect for beginners who want to learn programming concepts while creating something fun and interactive!
+# Classic Python Tic-Tac-Toe Game
+# Author: The Cloud
+# Date: 2025
 
 Prerequisites
 
