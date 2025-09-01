@@ -7,6 +7,19 @@ Prerequisites
     • Python 3.6 or higher. 
     • Basic understanding of programming concepts (helpful but not required). 
 
+Download tictactoe.py to your computer
+
+    Windows:
+
+    1. Navigate to the specific file within the repository on GitHub.
+    2. Click the "Raw" button located near the top right of the file view. This will open the file's raw content in a new browser tab.
+    3. Right-click on the page and select "Save Page As..." (or use Ctrl+S) to save the file to your desired location on your computer.
+    
+    Linux: 
+    
+    1. Open terminal
+    2. git clone [repository_url]
+    
 How to Play
 
     1. Players take turns placing X's and O's. 
