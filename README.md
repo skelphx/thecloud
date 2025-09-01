@@ -1,4 +1,4 @@
-#GitHub, CoPilot & Python Tic-Tac-Toe Course
+#Classic Python Tic-Tac-Toe Game
 
 A comprehensive course for learning Python through building a complete Tic-Tac-Toe game. Perfect for beginners who want to learn programming concepts while creating something fun and interactive!
 
@@ -9,16 +9,12 @@ Prerequisites
 
 Download tictactoe.py to your computer
 
-    Windows:
 
     1. Navigate to the specific file within the repository on GitHub.
+    
     2. Click the "Raw" button located near the top right of the file view. This will open the file's raw content in a new browser tab.
+    
     3. Right-click on the page and select "Save Page As..." (or use Ctrl+S) to save the file to your desired location on your computer.
-    
-    Linux: 
-    
-    1. Open terminal
-    2. git clone [repository_url]
     
 How to Play
 
@@ -31,7 +27,7 @@ How to Play
        4 | 5 | 6
        ---------
        7 | 8 | 9
-    
+       
     4. First player to get 3 in a row (horizontal, vertical, or diagonal) wins! 
     
     5. If all spaces are filled with no winner, it's a draw. 
@@ -49,6 +45,7 @@ Acknowledgments
 Happy Coding!
 
 ### LICENSE (MIT License)
+
 MIT License
 Copyright (c) 2025 Python Tic-Tac-Toe Course
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
