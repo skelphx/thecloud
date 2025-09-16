@@ -15,21 +15,21 @@ Download Tic-Tac-Toe to your computer
     
     3. Click "Download ZIP" at bottom of file view.
 
-    4. Unzip thecloud-main.zip to extract tictactoe.py and README.md to a folder or directory.
+    4. Unzip thecloud-main.zip to extract tictactoe.py, tictactoeai.py and README.md to a folder or directory.
 
-Load Tic-Tac-Toe
+Load Tic-Tac-Toe 2 Player - tictactoe.py or Tic-Tac-Toe with AI Opponent - tictactoeai.py
 
-    1. Start game by navigating to the folder or directory where tictactoe.py was extracted to, for example:
+    1. Start game by navigating to the folder or directory where tictactoe.py or tictactoeai.py were extracted to. Using CMD prompt (Windows), type the following:
 
-    cd Downloads
+    CD \Downloads
 
-    2. Enter the following command from CMD prompt (Windows) or Command prompt (Linux) to load Tic-Tac-Toe (dependant on python version).
+    2. Enter the following command from CMD prompt (Windows) or Command prompt (Linux) to invoke Python Interpreter and execute .py script.  
 
-    python tictactoe.py
+    C:\>python tictactoe.py
     
     or 
     
-    python3 tictactoe.py
+    user@hostname:/# python3 tictactoe.py
     
 How to Play
 
