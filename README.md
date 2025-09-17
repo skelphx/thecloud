@@ -25,7 +25,7 @@ Load Tic-Tac-Toe 2 Player - tictactoe.py or Tic-Tac-Toe with AI Opponent - ticta
 
     2. Enter the following command from CMD prompt (Windows) or Command prompt (Linux) to invoke Python Interpreter and execute .py script.  
 
-    C:\>python tictactoe.py
+    python tictactoe.py
     
     or 
     
